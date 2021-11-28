@@ -1,4 +1,4 @@
-const mongoose  = require('mong+oose')
+const mongoose  = require('mongnoose')
 
 
 const ConnectionString2 =
